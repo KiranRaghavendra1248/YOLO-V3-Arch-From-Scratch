@@ -1,4 +1,4 @@
-# Yolo v3 object detection model:
+# Yolo v3 object detection model (Pytorch):
 Run the yolo object detection algorithm with the below command:
 ```bash
 python detect.py --images test_images --det output
